@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Questo file viene usato dal processo di pubblicazione/creazione pacchetto del progetto Web. È possibile personalizzare il comportamento del processo
+modificando il file MSBuild. Per altre informazioni su questo argomento, vedere https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAa3KMd5vliE+8yb4lZp7NLwAAAAACAAAAAAAQZgAAAAEAACAAAAA0ZqUZ7gBqp0BP3Mbl+4pp2bQEA52Y57SesZLGrS3GbQAAAAAOgAAAAAIAACAAAACwwBHHKQXpYTnCUUEKN5yiYJqm+/lW7mjbYE+X2jqYeIAAAAAPLY7fE9Cyw4X3iEOLE1z9uQ7NqL7tdSWa/VvxReviF48BqE2edKaAzdwqw+4fTFo/A4duMhgsSYbzFQsnTLDbkpWzwnFgUozEVv1nT9YNM8Q3CotAvuJ8+c2Pdz6k/a6niJtnVC7RIKu9rbFcabIVyjcqRlz2fO785eiHWeDphEAAAABEGu/rGmjHp/WXm/zUBti7zidJ1ZOi98YxmlMpnXMJJt9YgXzUUByx+etaSShVdKpJ855vQe/T2LoUudLAVU4D</EncryptedPassword>
+    <_PublishTargetUrl>ftp://waws-prod-db3-131.ftp.azurewebsites.windows.net/site/wwwroot</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="appsettings.Development.json">
+      <publishTime>05/17/2019 14:38:15</publishTime>
+    </File>
+    <File Include="appsettings.json">
+      <publishTime>05/17/2019 15:07:13</publishTime>
+    </File>
+    <File Include="DeploymentTemplates/template-with-new-rg.json">
+      <publishTime>05/17/2019 14:38:15</publishTime>
+    </File>
+    <File Include="DeploymentTemplates/template-with-preexisting-rg.json">
+      <publishTime>05/17/2019 14:38:15</publishTime>
+    </File>
+    <File Include="Microsoft.Bot.Builder.AI.QnA.dll">
+      <publishTime>05/03/2019 23:34:50</publishTime>
+    </File>
+    <File Include="Microsoft.Bot.Builder.dll">
+      <publishTime>05/03/2019 23:34:50</publishTime>
+    </File>
+    <File Include="Microsoft.Bot.Builder.Integration.AspNet.Core.dll">
+      <publishTime>05/03/2019 23:34:58</publishTime>
+    </File>
+    <File Include="Microsoft.Bot.Configuration.dll">
+      <publishTime>05/03/2019 23:34:56</publishTime>
+    </File>
+    <File Include="Microsoft.Bot.Connector.dll">
+      <publishTime>05/03/2019 23:34:50</publishTime>
+    </File>
+    <File Include="Microsoft.Bot.Schema.dll">
+      <publishTime>05/03/2019 23:34:50</publishTime>
+    </File>
+    <File Include="Microsoft.IdentityModel.Clients.ActiveDirectory.dll">
+      <publishTime>01/11/2019 18:50:48</publishTime>
+    </File>
+    <File Include="Microsoft.IdentityModel.Logging.dll">
+      <publishTime>02/08/2018 22:16:40</publishTime>
+    </File>
+    <File Include="Microsoft.IdentityModel.Protocols.dll">
+      <publishTime>02/08/2018 22:17:02</publishTime>
+    </File>
+    <File Include="Microsoft.IdentityModel.Protocols.OpenIdConnect.dll">
+      <publishTime>02/08/2018 22:17:16</publishTime>
+    </File>
+    <File Include="Microsoft.IdentityModel.Tokens.dll">
+      <publishTime>02/08/2018 22:16:44</publishTime>
+    </File>
+    <File Include="Microsoft.Rest.ClientRuntime.dll">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="QnABot.deps.json">
+      <publishTime>05/18/2019 08:33:56</publishTime>
+    </File>
+    <File Include="QnABot.dll">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="QnABot.pdb">
+      <publishTime>05/18/2019 08:33:56</publishTime>
+    </File>
+    <File Include="QnABot.runtimeconfig.json">
+      <publishTime>05/18/2019 08:33:56</publishTime>
+    </File>
+    <File Include="System.IdentityModel.Tokens.Jwt.dll">
+      <publishTime>02/08/2018 22:16:52</publishTime>
+    </File>
+    <File Include="web.config">
+      <publishTime>05/18/2019 08:33:56</publishTime>
+    </File>
+    <File Include="wwwroot/default.htm">
+      <publishTime>05/17/2019 14:38:16</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

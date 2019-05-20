@@ -1,0 +1,14 @@
+C:\Users\ale\Desktop\eagALes\bin\Debug\netcoreapp2.1\QnABot.deps.json
+C:\Users\ale\Desktop\eagALes\bin\Debug\netcoreapp2.1\QnABot.runtimeconfig.json
+C:\Users\ale\Desktop\eagALes\bin\Debug\netcoreapp2.1\QnABot.runtimeconfig.dev.json
+C:\Users\ale\Desktop\eagALes\bin\Debug\netcoreapp2.1\QnABot.dll
+C:\Users\ale\Desktop\eagALes\bin\Debug\netcoreapp2.1\QnABot.pdb
+C:\Users\ale\Desktop\eagALes\obj\Debug\netcoreapp2.1\QnABot.csproj.CoreCompileInputs.cache
+C:\Users\ale\Desktop\eagALes\obj\Debug\netcoreapp2.1\QnABot.RazorAssemblyInfo.cache
+C:\Users\ale\Desktop\eagALes\obj\Debug\netcoreapp2.1\QnABot.RazorAssemblyInfo.cs
+C:\Users\ale\Desktop\eagALes\obj\Debug\netcoreapp2.1\QnABot.AssemblyInfoInputs.cache
+C:\Users\ale\Desktop\eagALes\obj\Debug\netcoreapp2.1\QnABot.AssemblyInfo.cs
+C:\Users\ale\Desktop\eagALes\obj\Debug\netcoreapp2.1\QnABot.RazorTargetAssemblyInfo.cache
+C:\Users\ale\Desktop\eagALes\obj\Debug\netcoreapp2.1\QnABot.dll
+C:\Users\ale\Desktop\eagALes\obj\Debug\netcoreapp2.1\QnABot.pdb
+C:\Users\ale\Desktop\eagALes\obj\Debug\netcoreapp2.1\QnABot.csprojAssemblyReference.cache
